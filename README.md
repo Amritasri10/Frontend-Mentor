@@ -16,9 +16,9 @@ Users should be able to:
 
 ## Screenshot
 
-- [Desktop solution](design/screenshot1.png)
-- [Desktop solution (active state)](design/screenshot2.png)
-- [Mobile solution (active state)](design/screenshot3.png)
+- ![Desktop solution](design/screenshot1.png)
+- ![Desktop solution (active state)](design/screenshot2.png)
+- ![Mobile solution (active state)](design/screenshot3.png)
 
 
 ## Tech Stack
